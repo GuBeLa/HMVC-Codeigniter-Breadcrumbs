@@ -1,4 +1,4 @@
-# HMVC-Codeigniter-Breadcrumbs
+# HMVC-Codeigniter-Breadcrumb
 Simple Breadcrumb for Codeigniter HMVC
 
 
